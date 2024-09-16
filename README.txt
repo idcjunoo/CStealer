@@ -57,4 +57,3 @@ Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA code
 General Functions
 
 Check if being run in a VirusTotal sandbox
-Adds file to startup
