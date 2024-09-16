@@ -11,7 +11,7 @@ STEP 4 - DOX YOUR OPPS
 CODED BY idcjunoo ON DISCORD
 
 
-FEATURES 
+FEATURES
 
 (Discord Information)
 
